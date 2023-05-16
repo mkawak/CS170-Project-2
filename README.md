@@ -5,4 +5,12 @@
 
 
 
-# This project was done in collaboration with Abhinav Allam, Jacqueline Gardea and Rovin Soriano
+# This project was done in collaboration with , J and 
+## Project Collaboration
+
+This project was done in collaboration with the following individuals:
+
+- [Abhinav Allam](https://github.com/aalla009)
+- [Jacqueline Gardea](https://github.com/jlgardea)
+- [Rovin Soriano](https://github.com/rsori013)
+
