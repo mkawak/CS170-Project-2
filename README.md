@@ -5,7 +5,7 @@
 
 
 
-# This project was done in collaboration with , J and 
+
 ## Project Collaboration
 
 This project was done in collaboration with the following individuals:
